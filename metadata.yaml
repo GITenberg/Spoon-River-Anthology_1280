@@ -1,0 +1,41 @@
+_repo: Spoon-River-Anthology_1280
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Masters, Edgar Lee
+    aliases:
+    - Ford, Webster
+    - Masters, E. L. (Edgar Lee)
+    birthdate: 1868
+    deathdate: 1950
+    gutenberg_agent_id: '584'
+    url: http://www.gutenberg.org/2009/agents/584
+    wikipedia: http://en.wikipedia.org/wiki/Edgar_Lee_Masters
+description: "Spoon River Anthology (1915), by Edgar Lee Masters, is a collection\
+  \ of short free-form poems that collectively narrates the epitaphs of the residents\
+  \ of Spoon River, a fictional small town named after the real Spoon River that ran\
+  \ near Masters' home town. The aim of the poems is to demystify the rural, small\
+  \ town American life. The collection includes two hundred and twelve separate characters,\
+  \ all providing two-hundred forty-four accounts of their lives and losses. The poems\
+  \ were originally published in the magazine Reedy's Mirror.\n From Wikipedia (CC\
+  \ BY-SA)."
+gutenberg_issued: '1998-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1280'
+  wikidata: Q461760
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American poetry'
+- !lcc 'PS'
+- GITenberg
+title: Spoon River Anthology
+url: http://www.gutenberg.org/ebooks/1280
+wikipedia:
+- https://fi.wikipedia.org/wiki/Spoon_River_antologia
+- https://en.wikipedia.org/wiki/Spoon_River_Anthology
+- https://it.wikipedia.org/wiki/Antologia_di_Spoon_River
+- https://hu.wikipedia.org/wiki/A_Spoon_River-i_holtak
