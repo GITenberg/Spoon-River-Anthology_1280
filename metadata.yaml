@@ -1,5 +1,8 @@
 _repo: Spoon-River-Anthology_1280
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Masters, Edgar Lee
@@ -19,6 +22,8 @@ description: "Spoon River Anthology (1915), by Edgar Lee Masters, is a collectio
   \ all providing two-hundred forty-four accounts of their lives and losses. The poems\
   \ were originally published in the magazine Reedy's Mirror.\n From Wikipedia (CC\
   \ BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1280#Spoon-River-Anthology
 gutenberg_issued: '1998-04-01'
 gutenberg_type: Text
 identifiers:
